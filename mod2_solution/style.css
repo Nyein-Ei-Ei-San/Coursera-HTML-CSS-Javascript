@@ -12,16 +12,19 @@ section {
     margin-left: 2.5%;
     margin-top: 30px;
     float: left;
-    height: 185px;
+    height: 195px;
 }
 h2 {
     border: solid black 1px;
     margin: 0;
     font-size: 125%;
     text-align: center;
-    width: 260px;
-    float: right;
+    width: 75%;
+    position: relative;
+    right: -24.7%;
     margin-top: -1px;
+    margin-right: 1px;
+    box-sizing: content-box;
 }
 p {
     padding: 6px;
@@ -53,4 +56,5 @@ p {
     section {
         width: 94%;
         margin-left: 3%;
+    }
 }
