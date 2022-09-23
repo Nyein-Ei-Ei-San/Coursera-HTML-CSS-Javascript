@@ -4,27 +4,6 @@
   <title>Module 2 Coding Assignment</title>
   <meta charset="utf-8">
   <link rel="stylesheet" href="module3.css">
-  <style>
-    h1 {
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-text-align: center;}
-section {
-margin-left: 2.5%;
-box-sizing: border-box;
-border: solid black 1px;
-background-color: burlywood;
-width: 30%;
-float: left;}
-h2 {
-    text-align: right;
-    border: solid black 1px;
-    padding: 0;
-    width: 150px;
-}
-p {
-    padding: 8px;
-}
-  </style>
 </head>
 <body>
   <h1>Quotes from Books</h1>
